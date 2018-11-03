@@ -1,0 +1,33 @@
+{
+  "name": "@hallysonh/ngx-popover",
+  "version": "1.0.0",
+  "description": "Simple popover control for your angular7 applications using bootstrap4.",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "homepage": "https://github.com/hallysonh/ngx-popover#readme",
+  "author": {
+    "name": "Hallyson Almeida",
+    "email": "hallysonh@gmail.com"
+  },
+  "contributors": [
+    "Umed Khudoiberdiev <pleerock.me@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hallysonh/ngx-popover.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hallysonh/ngx-popover/issues"
+  },
+  "tags": [
+    "popover",
+    "angular",
+    "typescript",
+    "ngx-popover"
+  ],
+  "private": false,
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  }
+}
